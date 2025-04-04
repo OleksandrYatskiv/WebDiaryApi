@@ -1,0 +1,57 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio working directory
+.vs/
+
+# ASP.NET Core
+wwwroot/
+publish/
+appsettings.Development.json
+appsettings.*.local.json
+secrets.json
+.env
+
+# Logs
+*.log
+
+# NuGet
+*.nupkg
+.nuget/
+
+# Others
+*.dbmdl
+*.bak
+*.tmp
+*.temp
+
+# Compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# Node.js (if using frontend)
+node_modules/
+dist/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
